@@ -1,6 +1,6 @@
 <!--*************** Título ***************-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+Luiz+Henrique;Desenvolvedor+Full+Stack...+almost+there!;Seja+bem-vindo!+#9996)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Luiz+Henrique;Desenvolvedor+Full+Stack...+almost+there!;Seja+bem-vindo!+#9996)](https://git.io/typing-svg)
 
 
 <!--*************** Banner ***************-->
