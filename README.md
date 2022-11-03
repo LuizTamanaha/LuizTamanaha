@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#E0FFFF&height=120&section=header"/>
+
 ### Olá!! Eu sou o Luiz Henrique ✌️
 
 ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizTamanaha&show_icons=true&theme=dracula)
