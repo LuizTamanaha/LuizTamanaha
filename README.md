@@ -25,7 +25,7 @@
     <li>🔭 Cursando Análise e Desenvolvimento de Sistemas - Full Stack, Apps & Artificial Intelligence.</li><br/>
     <li>🎯 Aprendendo a cada dia sobre Java.</li><br/>
     <li>🤓 Estudando HTML5, CSS3 e JavaScript.</li><br/>
-    <li>💬 Qualquer ajuda ou dica, sempre é bem-vindo.</li><br/>
+    <li>💬 Qualquer ajuda ou dica, sempre é bem-vinda!</li><br/>
     <li>📩 Quer me mandar um e-mail? ➡️ henriquealmmeida@yahoo.com.br</li><br/>
     <li>🤔 Curiosidades: 🎓 bacharel em direito, 🎾 tenista nas horas vagas, 🏍️ apaixonado por motos.</li><br/>
     <li>🇺🇸  Learning english to achieve fluency.</li><br/>
