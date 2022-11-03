@@ -1,6 +1,6 @@
 <!--*************** Título ***************-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+Luiz+Henrique;Desenvolvedor+full+stack;Seja-vindo!+#9996)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+Luiz+Henrique;Desenvolvedor+Full+Stack...+almost+there!;Seja+bem-vindo!+#9996)](https://git.io/typing-svg)
 
 
 <!--*************** Banner ***************-->
@@ -22,8 +22,6 @@
 <div>
 <br />
   <ul>
-    <li>💻 Desenvolvedor Full Stack....almost there!</li><br/>
-    <li>📌 Moro em São Paulo-BR.</li><br/>
     <li>🔭 Cursando Análise e Desenvolvimento de Sistemas - Full Stack, Apps & Artificial Intelligence.</li><br/>
     <li>🎯 Aprendendo a cada dia sobre Java.</li><br/>
     <li>🤓 Estudando HTML5, CSS3 e JavaScript.</li><br/>
