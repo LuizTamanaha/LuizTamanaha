@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#E0FFFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=120&section=header"/>
 
 ### Olá!! Eu sou o Luiz Henrique ✌️
 
