@@ -1,8 +1,40 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=120&section=header"/>
+<!--*************** Título ***************-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DAA520&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+Luiz+Henrique;Desenvolvedor+full+stack;Seja-vindo!+#9996)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+Luiz+Henrique;Desenvolvedor+full+stack;Seja-vindo!+#9996)](https://git.io/typing-svg)
 
-### Olá!! Eu sou o Luiz Henrique ✌️
+
+<!--*************** Banner ***************-->
+<div>
+  <img
+    src="https://i.imgur.com/1ZvVkDc.gif" 
+    alt="mario coding"
+    />
+</div>
+<p>
+  <br />
+  <br />
+</p>
+
+ ---
+<!--*************** Sobre mim ***************-->
+
+<h3>🚀 Sobre mim...</h3>
+<div>
+<br />
+  <ul>
+    <li>💻 Desenvolvedor Full Stack....almost there!</li><br/>
+    <li>📌 Moro em São Paulo-BR.</li><br/>
+    <li>🔭 Cursando Análise e Desenvolvimento de Sistemas - Full Stack, Apps & Artificial Intelligence.</li><br/>
+    <li>🎯 Aprendendo a cada dia sobre Java.</li><br/>
+    <li>🤓 Estudando HTML5, CSS3 e JavaScript.</li><br/>
+    <li>💬 Qualquer ajuda ou dica, sempre é bem-vindo.</li><br/>
+    <li>📩 Quer me mandar um e-mail? ➡️ henriquealmmeida@yahoo.com.br</li><br/>
+    <li>🤔 Curiosidades: 🎓 bacharel em direito, 🎾 tenista nas horas vagas, 🏍️ apaixonado por motos.</li><br/>
+    <li>🇺🇸  Learning english to achieve fluency.</li><br/>
+  </ul>
+</div>
+
+<!--*************** Skills ***************-->
 
 ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizTamanaha&show_icons=true&theme=dracula)
 
