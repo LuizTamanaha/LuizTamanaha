@@ -22,7 +22,7 @@
 <div>
 <br />
   <ul>
-    <li>🔭 Análise e Desenvolvimento de Sistemas - Full Stack, Apps & Artificial Intelligence.</li><br/>
+    <li>🔭 Analista e Desenvolvedor de Sistemas - Full Stack, Apps & Artificial Intelligence.</li><br/>
     <li>🎯 Aprendendo a cada dia sobre Java.</li><br/>
     <li>🤓 Estudando HTML5, CSS3 e JavaScript.</li><br/>
     <li>💬 Qualquer ajuda ou dica, sempre é bem-vinda!</li><br/>
